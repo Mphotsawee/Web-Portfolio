@@ -6,7 +6,7 @@ export default function Skills() {
   const skillCategories = [
     {
       title: 'FRONTEND',
-      icon: '💻',
+      icon: '',
       skills: [
         'React & Next.js',
         'Astro',

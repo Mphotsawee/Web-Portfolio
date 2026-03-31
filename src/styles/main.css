@@ -403,7 +403,7 @@ section {
 }
 
 .profile-image {
-  width: 130%;
+  width: 110%;
   height: auto;
   aspect-ratio: 1;
   object-fit: contain;

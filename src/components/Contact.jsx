@@ -37,15 +37,15 @@ export default function Contact() {
               <div className="contact-details">
                 <div className="detail">
                   <span className="detail-label">EMAIL</span>
-                  <a href="mailto:your.email@example.com" className="detail-link">
-                    your.email@example.com
+                  <a href="mailto:photsawee_t@cmu.ac.th" className="detail-link">
+                    photsawee_t@cmu.ac.th
                   </a>
                 </div>
 
                 <div className="detail">
                   <span className="detail-label">PHONE</span>
                   <a href="tel:+66931199416" className="detail-link">
-                    +66 93 319 9416
+                    +66 6-3273-6893
                   </a>
                 </div>
 
@@ -61,16 +61,10 @@ export default function Contact() {
               </div>
 
               <div className="social-links">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Mphotsawee" target="_blank" rel="noopener noreferrer">
                   GITHUB
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                  LINKEDIN
-                </a>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                  TWITTER
-                </a>
-                <a href="mailto:your.email@example.com">
+                <a href="mailto:photsawee_t@cmu.ac.th">
                   EMAIL
                 </a>
               </div>

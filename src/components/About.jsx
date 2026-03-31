@@ -12,15 +12,11 @@ export default function About() {
               <h3>HELLO My Name is Photsawee Tantiwattanchaikul</h3>
 
               <p>
-                I'm a passionate web developer and designer dedicated to creating beautiful, 
-                functional digital experiences. With expertise in modern web technologies and 
-                a keen eye for design, I transform ideas into engaging web applications.
+                I'm a passionate front-end developer dedicated to crafting seamless digital experiences. With expertise in modern libraries like React and a strong understanding of UI/UX, I transform design concepts into responsive, engaging web applications.
               </p>
 
               <p>
-                Sawaddeekub! Based in Thailand, I'm driven by collaboration and innovation. 
-                I enjoy bringing together frontend and backend solutions while maintaining 
-                clean, maintainable code that makes a real impact.
+                Based in Thailand, I'm driven by collaboration and innovation. I specialize in building intuitive user interfaces and maintaining clean, scalable code that makes a real impact.
               </p>
 
               <div className="about-info">
@@ -34,10 +30,7 @@ export default function About() {
                   <span className="info-value">Open for Collaboration</span>
                 </div>
 
-                <div className="info-item">
-                  <span className="info-label">TIMEZONE</span>
-                  <span className="info-value">GMT+7</span>
-                </div>
+               
               </div>
             </div>
           </div>
