@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="footer-left">
             <h4>PORTFOLIO</h4>
             <p>© 2026 All Rights Reserved</p>
-            <p className="footer-role">WEB DEVELOPER · UI/UX DESIGNER</p>
+            <p className="footer-role">WEB DEVELOPER</p>
           </div>
 
           <div className="footer-right">

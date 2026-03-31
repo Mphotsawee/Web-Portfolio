@@ -9,14 +9,14 @@ export default function Projects() {
       title: 'NinjaLingo',
       category: 'WEB · LANGUAGE PLATFORM',
       description: 'A language learning platform with interactive lessons and progress tracking.',
-      image: 'Screenshot 2569-03-31 at 19.38.23.png'
+      image: 'public/images/Screenshot 2569-03-31 at 19.38.23.png'
     },
     {
       id: 2,
       title: 'CMU Share Cycle',
       category: 'WEB · UNIVERSITY PROJECT',
       description: 'A platform for exchanging unused items to give them value within the university.',
-      image: 'Screenshot 2569-03-31 at 19.36.45.png'
+      image: 'public/images/Screenshot 2569-03-31 at 19.36.45.png'
     }
   ]
 

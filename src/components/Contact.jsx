@@ -54,10 +54,7 @@ export default function Contact() {
                   <p className="detail-text">Chiang Mai, Thailand</p>
                 </div>
 
-                <div className="detail">
-                  <span className="detail-label">TIMEZONE</span>
-                  <p className="detail-text">(GMT+7)</p>
-                </div>
+                
               </div>
 
               <div className="social-links">
