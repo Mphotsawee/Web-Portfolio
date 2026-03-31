@@ -37,7 +37,7 @@ export default function About() {
 
           <div className="about-image">
             <img 
-              src="public/images/351758761_688054019796361_4894503948582728856_n.jpg" 
+              src="/images/351758761_688054019796361_4894503948582728856_n.jpg" 
               alt="Photsawee Tantiwattanchaikul" 
               className="profile-image"
             />
