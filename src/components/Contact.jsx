@@ -59,11 +59,9 @@ export default function Contact() {
 
               <div className="social-links">
                 <a href="https://github.com/Mphotsawee" target="_blank" rel="noopener noreferrer">
-                  GITHUB
+                  CLICK HERE TO VIEW GITHUB
                 </a>
-                <a href="mailto:photsawee_t@cmu.ac.th">
-                  EMAIL
-                </a>
+                
               </div>
             </div>
           </div>

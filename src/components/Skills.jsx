@@ -26,7 +26,7 @@ export default function Skills() {
       <div className="container">
         <h2 className="section-title">SKILLS</h2>
 
-        <p className="section-subtitle">Expertise across multiple domains of web development</p>
+        <p className="section-subtitle"></p>
 
         <div className="skills-content">
           <div className="skills-tabs">

@@ -8,9 +8,7 @@ export default function Header({ isDarkMode, setIsDarkMode }) {
       <nav className="navbar">
         <div className="nav-container">
           <div className="logo">
-            <span className="logo-symbol">✧</span>
-            <span className="logo-text">PORTFOLIO</span>
-            <span className="logo-symbol">✧</span>
+            <span className="logo-text">MIN</span>
           </div>
 
           <button
@@ -23,18 +21,12 @@ export default function Header({ isDarkMode, setIsDarkMode }) {
           </button>
 
           <ul className={`nav-menu ${mobileMenuOpen ? 'active' : ''}`}>
-            <li><a href="#about">ABOUT</a></li>
-            <li><a href="#skills">SKILLS</a></li>
-            <li><a href="#works">WORKS</a></li>
-            <li><a href="#contact">CONTACT</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#works">Works</a></li>
+            <li><a href="#contact">Contact</a></li>
             <li>
-              <button
-                className="theme-toggle"
-                onClick={() => setIsDarkMode(!isDarkMode)}
-                aria-label="Toggle theme"
-              >
-                {isDarkMode ? '☀️' : '🌙'}
-              </button>
+            
             </li>
           </ul>
         </div>
